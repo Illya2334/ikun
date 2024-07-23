@@ -1,8 +1,8 @@
 package com.list;
 
-import com.list.course.dao.StudentDAO;
-import com.list.course.dao.impl.StudentDAOImpl;
-import com.list.course.pojo.Student;
+import com.list.dao.StudentDAO;
+import com.list.dao.impl.StudentDAOImpl;
+import com.list.pojo.Student;
 
 import java.util.Date;
 

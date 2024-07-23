@@ -1,8 +1,8 @@
 package com.list.dao.impl;
 
-import com.list.course.DBUtil;
-import com.list.course.dao.StudentDAO;
-import com.list.course.pojo.Student;
+import com.list.DBUtil;
+import com.list.dao.StudentDAO;
+import com.list.pojo.Student;
 
 import java.sql.*;
 import java.text.SimpleDateFormat;

@@ -1,6 +1,6 @@
 package com.list.dao;
 
-import com.list.course.pojo.Student;
+import com.list.pojo.Student;
 
 import java.util.List;
 
